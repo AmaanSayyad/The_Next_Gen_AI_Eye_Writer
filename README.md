@@ -7,3 +7,5 @@ Most of the people can read, write, listen, and do anything because their body c
 The Eye-Writer Project uses Artificial Intelligence, OpenCV, Python, Python Frameworks, dlib,  Neural Networks and Computer Vision. The Motive of the Project is to give voice to the voiceless. If a person is not able to write and talk but able to read and visualise things then this project would definitely help them in communicating with his/her loved ones via reducing the communication gap by writing alphabet, words and sentences with his/her eyes.
 
 <h1 align="center">Output Screen</h1>
+
+<p align= "center"><img src="https://github.com/AmaanSayyad/The-Next-Gen-AI-Eye-Writer/blob/main/Output Screen.jpeg" width="700" height= "350"></p>
