@@ -15,9 +15,7 @@
 ### ~ A Fully Fledged, Automated Recognition and Detection System.
 ----
 
-<p>
-  
-- The Eye-tracking Technique has become one of the most popular techniques within the human and computer interaction era, this is especially important research for people who have difficulty with speech and movement disabilities. The primary function of this technology is based on a device that tracks the movement of the eye to identify a position or scan a display. Suitable devices for eye movement can then be integrated in accordance with the requirements of the organization. Currently, eye-tracking devices are becoming increasingly cheaper which make them an interesting resource for research. Although numerous studies have been conducted involving applications of eye tracking with a low-cost device, few studies have compared the actual eye-tracking systems themselves.
+- <p align="justify">The Eye-tracking Technique has become one of the most popular techniques within the human and computer interaction era, this is especially important research for people who have difficulty with speech and movement disabilities. The primary function of this technology is based on a device that tracks the movement of the eye to identify a position or scan a display. Suitable devices for eye movement can then be integrated in accordance with the requirements of the organization. Currently, eye-tracking devices are becoming increasingly cheaper which make them an interesting resource for research. Although numerous studies have been conducted involving applications of eye tracking with a low-cost device, few studies have compared the actual eye-tracking systems themselves.
 
 - Most people can read, write, listen, and can perform day-to-day activities because their body communicates with the mind. So mind controls every moment of the body. But some people can’t do this because their body may not communicate with their brain, which means the brain is active and the body is inactive. This kind of people can think but not implement their thoughts. So Now, By using an “Eye-Writer” they can express their thoughts. 
 
